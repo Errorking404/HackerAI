@@ -1,5 +1,4 @@
-I got you 🔥 Here’s a supercool version of that README. Same info, way more vibe:
-💀 HackerAI
+# 💀 HackerAI
 **Your Termux AI sidekick for security testing & learning**  
 Runs 100% on Android. No PC needed.
 
